@@ -28,6 +28,8 @@
   width: 100px;
   position: absolute;
   display: none;
+  top : 100px;
+  left : 150px;
 }
 #youlose{
   width:400px;
