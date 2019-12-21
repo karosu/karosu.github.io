@@ -5,7 +5,7 @@ const ctx = cvs.getContext("2d");
 // ADD BORDER TO CANVAS
 cvs.style.border = "2px solid #000";
 
-// MAKE LINE THIK WHEN DRAWING TO CANVAS
+// MAKE LINE THICK WHEN DRAWING TO CANVAS
 ctx.lineWidth = 3;
 
 // GAME VARIABLES AND CONSTANTS
