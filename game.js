@@ -3,7 +3,7 @@ const cvs = document.getElementById("breakout");
 const ctx = cvs.getContext("2d");
 
 // ADD BORDER TO CANVAS
-cvs.style.border = "2px dashed #000";
+cvs.style.border = "2px solid #000";
 
 // MAKE LINE THIK WHEN DRAWING TO CANVAS
 ctx.lineWidth = 3;
