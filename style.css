@@ -2,7 +2,6 @@
   font-family: 'Special Elite', cursive;
 
   
-  
 }
 #sound{
   width: 30px;
@@ -18,7 +17,7 @@
   height: 500px;
   background: rgba(0,0,0,0.5);
   display: none;
-  top: 80px;
+  top: 110px;
 }
 #youwon{
   width: 100px;
